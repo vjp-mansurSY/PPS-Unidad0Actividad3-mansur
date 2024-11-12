@@ -23,7 +23,7 @@ __2. Instala git y php en tu equipo.__
 ![](/Imagenes/C2.png)
 
 Y creo un directorio llamado Images
-![](/uploads/C10.png)
+![](/Imagenes/C10.png)
 
 Pasamos las capturas hechas hasta ahora dentro de ese directorio
-![](/uploads/C11.png)
+![](/Imagenes/C11.png)
