@@ -16,11 +16,11 @@ Los pasos a realizar son los siguientes
 
 __1. Abre una cuenta en Github.com con tu cuenta de @informatica.iesvalledeljerteplasencia.es.__
 
-![](/images/C1.png)
+![](/Imagenes/C1.png)
 
 __2. Instala git y php en tu equipo.__
 
-![](/uploads/C2.png)
+![](/Imagenes/C2.png)
 
 Y creo un directorio llamado Images
 ![](/uploads/C10.png)
